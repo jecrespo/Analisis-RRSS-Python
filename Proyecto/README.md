@@ -47,6 +47,6 @@ Ficheros:
 * grafo_followers_todos.csv - Total de primera y segunda captura (850 Followers y 1047161 relaciones)
 * followers_acceso_no_permitido.txt - Listado de followers sin acceso a sus datos (74 Followers)
 
-## Proyecto_Trump.ipynb
+### Proyecto_Trump.ipynb
 
 Proyecto propuesto
