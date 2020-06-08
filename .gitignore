@@ -12,3 +12,6 @@
 Datasets/
 *.json
 *.pkl
+
+#BBDD
+*.sqlite
