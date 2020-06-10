@@ -15,3 +15,9 @@ Datasets/
 
 #BBDD
 *.sqlite
+
+#Resultados
+*.csv
+
+#Copias
+*.old
